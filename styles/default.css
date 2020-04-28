@@ -1,0 +1,35 @@
+/*https://coolors.co/5bc0eb-011627-f06449-fff275-ff8c42
+#5BC0EB *Blue Jeans-Light Blue
+#011627 *Maastricht Blue-Navy Blue
+#F06449 *Tomato-Red/Oranage 
+#FFF275 *Sunny
+#FF8C42 *Mango Tango
+*/
+body
+{
+  color: #5BC0EB;
+  background-color: #011627 ;
+  font-family: 'tahoma','sans-serif'; 
+  margin: 100px;
+} 
+
+h1
+{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+header, footer 
+{
+  text-align: center;
+}
+
+a
+{
+  color: #d8a47f;
+}
+
+figcaption
+{
+  font-style: italic;
+}
